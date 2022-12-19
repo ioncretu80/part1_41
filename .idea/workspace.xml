@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa810b12-6908-484f-b44a-5f6c3b7bd8cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1_41.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckOverGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckUnderAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentChecks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/article/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/article/ArticleInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/article/CheckArtikle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/BookInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/CheckBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testinividual/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testinividual/AutoInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testinividual/CheckAuto.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2J6HY5cEc8PAlXIRFNpJYgcNcNJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="article" />
+      <recent name="books" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="books" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArticleInfo">
+    <configuration name="ArticleInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="article.ArticleInfo" />
+      <module name="part1_41" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="article.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testinividual.AutoInfo" />
+      <module name="part1_41" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testinividual.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="books.BookInfo" />
+      <module name="part1_41" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="books.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentInfo" />
+      <module name="part1_41" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArticleInfo" />
+        <item itemvalue="Application.BookInfo" />
+        <item itemvalue="Application.AutoInfo" />
+        <item itemvalue="Application.StudentInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa810b12-6908-484f-b44a-5f6c3b7bd8cf" name="Changes" comment="" />
+      <created>1671391659737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671391659737</updated>
+      <workItem from="1671391661281" duration="6374000" />
+      <workItem from="1671438875423" duration="1669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
